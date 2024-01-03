@@ -2,7 +2,7 @@
 
 This project is a time series analysis of the S&P 500 index. This project including ARIMA, GARCH, VAR, and VECM models.
 
-The code and dataset are in the [`source'](./source) folder.
+The code and dataset are in the ['source'](./source) folder.
 
 ![Project Image](./img/Slide1.png)
 ![Project Image](./img/Slide2.png)
