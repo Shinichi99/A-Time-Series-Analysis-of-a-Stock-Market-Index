@@ -1,4 +1,4 @@
-# A-Time-Series-Analysis-of-a-Stock-Market-Index
+# A Time Series Analysis of a Stock Market Index
 
 This project is a time series analysis of the S&P 500 index. This project including ARIMA, GARCH, VAR, and VECM models.
 
